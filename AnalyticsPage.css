@@ -1,0 +1,41 @@
+.analytics-page {
+  padding: 20px;
+}
+
+.analytics-page input {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.analytics-page button {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.analytics-page button:hover {
+  background-color: #0056b3;
+}
+
+.analytics-page table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.analytics-page th,
+.analytics-page td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+.analytics-page th {
+  background-color: #007bff;
+  color: white;
+}
